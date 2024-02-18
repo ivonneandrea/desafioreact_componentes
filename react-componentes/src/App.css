@@ -1,0 +1,20 @@
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 100%;
+  min-height: 100%;
+  text-align: center;
+
+}
+
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 25rem;
+  padding: 1rem;
+  border-radius: 15%;
+  background-color: bisque;
+}
+
